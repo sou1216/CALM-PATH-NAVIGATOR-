@@ -1,0 +1,9 @@
+Flask
+flask-bcrypt
+requests
+reportlab
+matplotlib
+pandas
+numpy
+scikit-learn
+joblib
